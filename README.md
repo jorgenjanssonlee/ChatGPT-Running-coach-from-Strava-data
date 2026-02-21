@@ -124,6 +124,9 @@ These are "short cuts' that show up as a button in the chat for common, recurrin
 
 This tells the GPT what Strava data is available, how it's formatted and how to get it.
 
+<details>
+<summary>Click to expand Schema details</summary>
+
 ```JSON
 {
   "openapi": "3.1.0",
@@ -771,7 +774,4 @@ This tells the GPT what Strava data is available, how it's formatted and how to 
 }
 ```
 
-
-
-Finally, paste the following code into Schema, hit update, and have fun!
-
+</details>
